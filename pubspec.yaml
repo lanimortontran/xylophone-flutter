@@ -12,7 +12,6 @@ dependencies:
 
   cupertino_icons: ^0.1.2
   audioplayers: ^0.20.1
-  # Use Audioplayers dependency version 0.17.4
 
 dev_dependencies:
   flutter_test:
